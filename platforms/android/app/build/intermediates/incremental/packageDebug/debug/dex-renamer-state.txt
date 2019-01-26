@@ -1,0 +1,4 @@
+#Mon Mar 26 22:16:12 IST 2018
+base.0=F\:\\apssi\\appsi\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=F\:\\apssi\\appsi\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
